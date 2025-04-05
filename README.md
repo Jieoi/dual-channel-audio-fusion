@@ -74,8 +74,8 @@ The overall structure of the dual-channel fusion model is shown below:
 - Extend the classification framework to include multiple respiratory conditions beyond binary healthy/unhealthy classification.
 
 ## Authors
-- Li Xinjie *(Corresponding Author)*: xinjie.li.2024@mitb.smu.edu.sg 
 - Dau Vu Dang Khoi: vdk.dau.2024@mitb.smu.edu.sg
+- Li Xinjie ✉ : xinjie.li.2024@mitb.smu.edu.sg 
 - Samuel Lee Wei Sheng: ws.lee.2024@mitb.smu.edu.sg
 - Tan Zong Yin Shawn: shawn.tan.2024@mitb.smu.edu.sg
 - Wu Jialu: jialu.wu.2024@mitb.smu.edu.sg
