@@ -57,6 +57,7 @@ The overall structure of the dual-channel fusion model is shown below:
 - Baseline CNN (MFCC): Accuracy = 0.78, Healthy F1 = 0.10, Unhealthy F1 = 0.87
 - Expanded dataset model: Improved Healthy F1 to 0.51
 - Synthetic data model (LDM): Best improvements, demonstrating the effectiveness of synthetic augmentation
+  
 **Accuracy comparison across baseline, expanded, and augmented datasets:**
 ![Accuracy Comparison](meta/accuracy_compare.png)
 
