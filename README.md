@@ -59,6 +59,7 @@ The overall structure of the dual-channel fusion model is shown below:
 - Synthetic data model (LDM): Best improvements, demonstrating the effectiveness of synthetic augmentation
 **Accuracy comparison across baseline, expanded, and augmented datasets:**
 ![Accuracy Comparison](meta/accuracy_compare.png)
+
 **F1 score comparison showing improvements for the 'Healthy' class:**
 ![F1 Score Comparison](meta/F1_compare.png)
 
